@@ -1,0 +1,23 @@
+			KVITTO
+Dalbogatan 16
+SE 5043 38 Borås
+Org nr: 5555-5555
+Telefon: 0722051923                                           Kassör: 275 Nr: 5555
+-----------------------------------------------------------------------------------------Datum:XX:XX:XX
+TId: 15:55:50.436
+-----------------------------------------------------------------------------------------*  ProductNamn, Productkattegori                                 Pris
+           Antal, Vikt: * Pris, Erbjuande	                - Erbjudande
+*  ProductNamn, Productkattegori                                 Pris
+           Antal, Vikt: * Pris, Erbjuande	                - Erbjudande
+*  ProductNamn, Productkattegori                                 Pris
+           Antal, Vikt: * Pris, Erbjuande	                - Erbjudande
+*  ProductNamn, Productkattegori                                 Pris
+           Antal, Vikt: * Pris, Erbjuande	                - Erbjudande
+*  ProductNamn, Productkattegori                                 Pris
+           Antal, Vikt: * Pris, Erbjuande	                - Erbjudande
+-----------------------------------------------------------------------------------------Total:                                                                      XXX,XX Kr
+Moms 12%
+
+
+
+
